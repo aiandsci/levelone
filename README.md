@@ -1,2 +1,2 @@
 # levelone
-For first level class
+This repository contains files for AIandSci's first level class
